@@ -1,2 +1,13 @@
 # Sovereign-CDS-vs-Asset-Classes-Hedge-and-Safe-Haven-Research
-This repository has all the codes that were used for the research where analysis was performed to see the hedge effectiveness and safe haven characterestics between Sovereign CDS and Asset Classes
+📈 Key Insights
+Risk is not uniform across time horizons
+Short-term movements ≠ long-term trends
+Multiscale analysis leads to better risk and hedging decisions
+🛠️ Stack
+
+Python • NumPy • Pandas • PyWavelets • Jupyter
+
+🎯 Use Cases
+Market & Credit Risk
+Portfolio Hedging
+Quantitative Research
